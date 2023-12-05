@@ -1,0 +1,5 @@
+Props  => Data types
+Emit  => emit data sending on other events types
+Slots  => using slots named multiple slots
+
+Vue router
