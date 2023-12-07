@@ -1,0 +1,22 @@
+@import url(https://db.onlinewebfonts.com/c/fd30be95d6ba9aab41fd9ac0f83b2d59?family=RotterburgStylishFREE-Regular);
+@import url(https://db.onlinewebfonts.com/c/2c0a2837b0d71a24f9f1e8089cb2dec9?family=Steinbeck+Gras);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.coll {
+  @apply flex flex-col;
+}
+
+.ccc {
+  @apply justify-center items-center;
+}
+
+.gold {
+  @apply font-custom text-[#C9AC8C];
+}
